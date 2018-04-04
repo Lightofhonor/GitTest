@@ -3,4 +3,5 @@ p {text-align:center;}
 div{margin:auto;
 background: aqua;
 padding: 30px;
-max-width: 300px;}
+max-width: 300px;
+border: 2px solid black}
